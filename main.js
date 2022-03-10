@@ -38,7 +38,7 @@ class softSkills {
 
     mySoftSkills() {
         return (
-            console.log(`${this.skills}.`)
+            console.log(`${this.skills}...`)
         );
     }
 }
@@ -50,7 +50,7 @@ class hardSkills extends softSkills {
 
     myHardSKills() {
         return (
-            console.log(`${this.skills}.`)
+            console.log(`${this.skills}...`)
         );
     }
 }
