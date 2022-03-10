@@ -1,4 +1,4 @@
-<strong>Estudo de Programação Orientada à Objetos utilizando JavaScript</strong>
+<strong>Estudo de Programação Orientada à Objetos utilizando JavaScript:</strong>
 
 - Classes;
 - Métodos de instância;
