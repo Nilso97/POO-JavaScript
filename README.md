@@ -1,1 +1,1 @@
-# Estudos-de-Programa-o-Orientada-Objetos-com-JavaScript
+Estudo de Programação Orientada à Objetos utilizando JavaScript
